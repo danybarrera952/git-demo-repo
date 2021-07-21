@@ -16,7 +16,7 @@ const Buttons = () => {
           </CCardHeader>
           <CCardBody>
             <p className="text-medium-emphasis small">
-              CoreUI includes a bunch of predefined buttons components.respiramos.olemos vemos
+              CoreUI includes a bunch of predefined buttons components.respiramoddd.olemos vemos
             </p>
             <Example href="components/buttons">
               {['normal', 'active', 'disabled'].map((state, index) => (
